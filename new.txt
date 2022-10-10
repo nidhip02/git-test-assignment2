@@ -1,2 +1,5 @@
 This is dummy text
 112003097 Nidhi Patel
+Made more changes in this text file.
+College of Engineering, Pune
+I am studying Computer Engineering
